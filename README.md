@@ -96,7 +96,7 @@ Git, SVN, Postman
 - 휴면회원 분리, 전환 대상 판별, 개인정보 파기 배치 개발
 - 운영 중 서비스 기능 개선 및 빌드/배포 대응
 
-**Tech**: Java, Spring, eGovFrame, JSP, JavaScript, CUBRID, JBoss, Jenkins
+**Tech**: Java 8, Spring, eGovFrame, JSP, JavaScript, CUBRID, JBoss, Jenkins
 
 ---
 
@@ -107,7 +107,7 @@ Git, SVN, Postman
 - 관리자 화면 및 데이터 조회/등록/수정 기능 구현
 - 공공기관 공간정보 품질관리 시스템 구축 참여
 
-**Tech**: Java, Spring, eGovFrame, React, JavaScript, PostgreSQL
+**Tech**: Java 8, Spring, eGovFrame, React, JavaScript, PostgreSQL
 
 ---
 
